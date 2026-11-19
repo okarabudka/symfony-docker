@@ -68,7 +68,7 @@ There are no automated tests; the repository contains only infrastructure config
 
 ## Status
 
-Completed starter template from May 2025. Not actively developed.
+Archived, snapshot of 2025. Superseded by [symfony-base](https://github.com/okarabudka/symfony-base).
 
 ## License
 
